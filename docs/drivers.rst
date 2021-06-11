@@ -75,9 +75,11 @@ Helpers for building graphical interfaces using the displayio core module and fr
     ProgressBar <https://circuitpython.readthedocs.io/projects/progressbar/en/latest/>
     PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
     Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
+    Simple Text Display <https://circuitpython.readthedocs.io/projects/simple-text-display/en/latest/>
     Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
     WSGI <https://circuitpython.readthedocs.io/projects/wsgi/en/latest/>
     DisplayIO Layout <https://circuitpython.readthedocs.io/projects/displayio-layout/en/latest/>
+    Dash Display <https://circuitpython.readthedocs.io/projects/dash_display/en/latest/>
 
 Motor Helpers
 ^^^^^^^^^^^^^^
@@ -371,7 +373,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     MS8607 Pressure, Temperature, Humidity <https://circuitpython.readthedocs.io/projects/ms8607/en/latest/>
     PCT2075 Temperature Sensor <https://circuitpython.readthedocs.io/projects/pct2075/en/latest/>
     PM25 Air Quality Sensor <https://circuitpython.readthedocs.io/projects/pm25/en/latest/>
-    SCD30 eCO2, Temperature, and Humidity Sensor <https://circuitpython.readthedocs.io/projects/scd30/en/latest/>
+    SCD30 CO2, Temperature, and Humidity Sensor <https://circuitpython.readthedocs.io/projects/scd30/en/latest/>
     SGP30 Air Quality <https://circuitpython.readthedocs.io/projects/sgp30/en/latest/>
     SHT31-D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht31d/en/latest/>
     SHT4x Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht4x/en/latest/>
